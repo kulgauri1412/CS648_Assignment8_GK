@@ -1,2 +1,2 @@
-# CS648_Assignment8_GK
+# CS648 Assignment 8
  
